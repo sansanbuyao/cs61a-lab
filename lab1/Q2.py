@@ -6,10 +6,3 @@ def falling(n, k):
         k -= 1
     return sum
 
-print(str(falling(6, 3)))
-
-print(str(falling(4, 3)))
-
-print(str(falling(4, 1)))
-
-print(str(falling(4, 0)))

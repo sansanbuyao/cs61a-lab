@@ -5,13 +5,7 @@ def xk(c, d):
          return 6 + 7 + c
      else:
          return 25
-print(str(xk(10, 10)))
 
-print(str(xk(10, 6)))
-
-print(str(xk(4, 6)))
-
-print(str(xk(0, 0)))
 
 #--------------------------------------------------------------------
 def how_big(x):
